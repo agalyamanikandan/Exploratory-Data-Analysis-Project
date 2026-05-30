@@ -1,0 +1,39 @@
+# EDA Report
+
+## Dataset Overview
+
+The Titanic dataset contains passenger information including age, gender, passenger class, fare, and survival status. The objective of this analysis was to explore the data, identify patterns, and determine factors that influenced survival.
+
+## Data Cleaning
+
+* Checked for missing values.
+* Identified incomplete records in some columns.
+* Examined data types and dataset structure.
+* Removed or handled missing values where necessary.
+
+## Statistical Summary
+
+* Calculated summary statistics such as mean, median, minimum, and maximum values.
+* Analyzed numerical features including Age and Fare.
+* Reviewed the distribution of passenger characteristics.
+
+## Visualizations
+
+### Histogram
+
+A histogram was used to examine the distribution of numerical variables.
+
+### Correlation Heatmap
+
+A heatmap was created to identify relationships between numerical features.
+
+## Key Findings
+
+1. Passenger class showed a relationship with survival outcomes.
+2. Female passengers generally had higher survival rates than male passengers.
+3. Fare and passenger class appeared to be associated with survival probability.
+4. Some features contained missing values that required attention during analysis.
+
+## Conclusion
+
+The exploratory data analysis revealed several patterns within the Titanic dataset. Passenger class, gender, and fare were among the most influential factors associated with survival. Visualizations and statistical summaries provided valuable insights into the structure and characteristics of the dataset.
